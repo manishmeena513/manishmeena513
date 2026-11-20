@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="t d">
+  <title id="t">Manish's animated terminal introduction</title>
+  <desc id="d">A dark terminal window with blue accents introducing Manish Meena.</desc>
+  <rect x="1" y="1" width="898" height="298" rx="16" fill="#081321" stroke="#24527A" stroke-width="2"/>
+  <path d="M1 54H899" stroke="#24527A"/>
+  <circle cx="28" cy="28" r="6" fill="#38BDF8"/><circle cx="50" cy="28" r="6" fill="#60A5FA"/><circle cx="72" cy="28" r="6" fill="#93C5FD"/>
+  <text x="105" y="34" fill="#9CCBE8" font-family="monospace" font-size="15">manish@workspace ~</text>
+  <g font-family="JetBrains Mono,Consolas,monospace" font-size="21">
+    <text x="42" y="100" fill="#38BDF8">$ whoami</text>
+    <text x="42" y="136" fill="#E0F2FE">Manish Meena</text>
+    <text x="42" y="180" fill="#38BDF8">$ focus --current</text>
+    <text x="42" y="216" fill="#E0F2FE">Designing thoughtful interfaces</text>
+    <text x="42" y="248" fill="#E0F2FE">Building useful digital products</text>
+    <text x="42" y="278" fill="#7DD3FC">$ <tspan fill="#BAE6FD">always_learning</tspan><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.7;.72;.9;1" dur="1.2s" repeatCount="indefinite"/></text>
+  </g>
+  <path d="M42 286H215" stroke="#38BDF8" stroke-width="2" opacity=".55"/>
+</svg>
