@@ -30,6 +30,10 @@ My engineering interests include **local-first software, browser-based processin
   <img src="https://raw.githubusercontent.com/manishmeena513/manishmeena513/main/assets/terminal-intro.svg" width="100%" alt="Animated terminal introduction" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/manishmeena513/manishmeena513/main/assets/ascii-terminal-portrait.svg" width="72%" alt="Animated ASCII portrait being rendered line by line in a terminal" />
+</div>
+
 - 🎨 Background in graphic design and visual communication
 - 🧩 Building practical web products from idea to deployment
 - 🔒 Interested in privacy-first and on-device computing
