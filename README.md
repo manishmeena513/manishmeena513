@@ -45,14 +45,14 @@ My engineering interests include **local-first software, browser-based processin
         <p>🔒 <b>Private, browser-based file studio</b></p>
         <p>Image and document tools designed to process files on the user's device.</p>
         <p><img src="https://img.shields.io/badge/NEXT.JS-071426?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/TYPESCRIPT-123B68?style=flat-square&logo=typescript&logoColor=white" /></p>
-        <a href="https://filefixer.vercel.app/">Live demo</a>
+        <a href="https://filefixer.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-38BDF8?style=flat-square&labelColor=071426" alt="Live demo" /></a>
       </td>
       <td width="50%" valign="top">
         <h3><a href="https://github.com/manishmeena513/Mock-Maker">Mock-Maker ↗</a></h3>
         <p>📚 <b>Competitive exam mock-test platform</b></p>
         <p>Structured practice with an 80% PYQ and 20% model-question mix.</p>
         <p><img src="https://img.shields.io/badge/NEXT.JS-071426?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/SUPABASE-123B68?style=flat-square&logo=supabase&logoColor=white" /></p>
-        <a href="https://mockmaster-lyart.vercel.app">Live demo</a>
+        <img src="https://img.shields.io/badge/IN%20DEVELOPMENT-123B68?style=flat-square&labelColor=071426" alt="In development" />
       </td>
     </tr>
     <tr>
@@ -61,14 +61,14 @@ My engineering interests include **local-first software, browser-based processin
         <p>🧭 <b>Offline-first navigation utility</b></p>
         <p>A 3D compass with coordinate tools, levels and solar/lunar information.</p>
         <p><img src="https://img.shields.io/badge/THREE.JS-071426?style=flat-square&logo=threedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/REACT-123B68?style=flat-square&logo=react&logoColor=white" /></p>
-        <a href="https://axis-lac-pi.vercel.app">Live demo</a>
+        <img src="https://img.shields.io/badge/IN%20DEVELOPMENT-123B68?style=flat-square&labelColor=071426" alt="In development" />
       </td>
       <td width="50%" valign="top">
         <h3><a href="https://github.com/manishmeena513/Atmos">Atmos ↗</a></h3>
         <p>🌤️ <b>Personalizable weather experience</b></p>
         <p>Atmospheric data, activity insights, visual effects and custom themes.</p>
         <p><img src="https://img.shields.io/badge/REACT-071426?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/VITE-123B68?style=flat-square&logo=vite&logoColor=white" /></p>
-        <a href="https://atmos-gules-two.vercel.app/">Live demo</a>
+        <img src="https://img.shields.io/badge/IN%20DEVELOPMENT-123B68?style=flat-square&labelColor=071426" alt="In development" />
       </td>
     </tr>
   </table>
